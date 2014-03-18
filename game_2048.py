@@ -1,6 +1,6 @@
 from grid import Grid
 from tile import Tile
-from Agents import *
+from agents import *
 import math
 
 class Game_2048:
